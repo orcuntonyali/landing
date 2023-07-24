@@ -1,0 +1,15 @@
+.hero {
+  background-size: cover;
+  background-position: center;
+  padding: 150px 0;
+}
+
+.hero h1 {
+  color: white;
+}
+
+.hero p {
+  color: white;
+  opacity: .7;
+  font-size: 20px;
+}
